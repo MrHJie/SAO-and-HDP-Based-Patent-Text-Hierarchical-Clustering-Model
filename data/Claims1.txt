@@ -1,0 +1,58 @@
+1. A method, comprising:
+displaying a user interface on a touch screen display on a portable electronic device, wherein the user interface includes a displayed first window;
+while displaying the displayed first window, detecting a gesture on the touch screen display;
+in response to detecting the gesture on the touch screen display, displaying the displayed first window, one or more partially hidden windows, and an icon that was not displayed prior to detecting the gesture on the touch screen display;
+while displaying the displayed first window and the one or more partially hidden windows, detecting a swipe gesture on the touch screen display;
+in response to detecting the swipe gesture, moving the displayed first window partially or fully off the touch screen display and moving a second window selected from the one or more partially hidden windows to the center of the touch screen display; and
+in response to detecting a gesture on the icon, enlarging the second window in the center of the touch screen display.
+2. The method of claim 1, further comprising:
+in response to detecting the swipe gesture, moving a third window selected from the one or more partially hidden windows off the touch screen display.
+3. The method of claim 1, wherein the detected swipe gesture is a left-to-right swipe gesture, the method further comprising:
+in response to detecting the left-to-right swipe gesture:
+moving the first window partially off-screen to the right,
+moving the second window to the center of the touch screen display, and
+moving a fourth window selected from the one or more partially hidden windows completely off-screen.
+4. The method of claim 1, wherein the displayed window is displayed at a first size prior to detecting the gesture on the touch screen display, and is displayed at a second size different from the first size in response to detecting the gesture on the touch screen display.
+5. The method of claim 1, wherein the second window in the center of the touch screen display is enlarged to fill the touch screen display.
+6. The method of claim 1, further comprising:
+in response to detecting the gesture on the icon, ceasing to display the icon and the one or more partially hidden windows.
+7. A portable electronic device, comprising:
+a touch screen display;
+one or more processors;
+a memory; and
+one or more programs, wherein the one or more programs are stored in the memory and configured to be executed by the one or more processors, the one or more programs including instructions for:
+displaying a user interface on a touch screen display on a portable electronic device, wherein the user interface includes a displayed first window;
+while displaying the displayed first window, detecting a gesture on the touch screen display;
+in response to detecting the gesture on the touch screen display, displaying the displayed first window, one or more partially hidden windows, and an icon that was not displayed prior to detecting the gesture on the touch screen display;
+while displaying the displayed first window and the one or more partially hidden windows, detecting a swipe gesture on the touch screen display;
+in response to detecting the swipe gesture, moving the displayed first window partially or fully off the touch screen display and moving a second window selected from the one or more partially hidden windows to the center of the touch screen display; and
+in response to detecting a gesture on the icon, enlarging the second window in the center of the touch screen display.
+8. The portable electronic device of claim 7, the one or more programs further including instructions for:
+in response to detecting the swipe gesture, moving a third window selected from the one or more partially hidden windows off the touch screen display.
+9. The portable electronic device of claim 7, wherein the detected swipe gesture is a left-to-right swipe gesture, the one or more programs further including instructions for:
+in response to detecting the left-to-right swipe gesture:
+moving the first window partially off-screen to the right,
+moving the second window to the center of the touch screen display, and
+moving a fourth window selected from the one or more partially hidden windows completely off-screen.
+10. The portable electronic device of claim 7, wherein the displayed window is displayed at a first size prior to detecting the gesture on the touch screen display, and is displayed at a second size different from the first size in response to detecting the gesture on the touch screen display.
+11. The portable electronic device of claim 7, wherein the second window in the center of the touch screen display is enlarged to fill the touch screen display.
+12. The portable electronic device of claim 7, the one or more programs further including instructions for:
+in response to detecting the gesture on the icon, ceasing to display the icon and the one or more partially hidden windows.
+13. A non-transitory computer-readable storage medium storing one or more programs configured to be executed by one or more processors of a portable electronic device with a touch screen display, the one or more programs including instructions for:
+displaying a user interface on a touch screen display on a portable electronic device, wherein the user interface includes a displayed first window;
+while displaying the displayed first window, detecting a gesture on the touch screen display;
+in response to detecting the gesture on the touch screen display, displaying the displayed first window, one or more partially hidden windows, and an icon that was not displayed prior to detecting the gesture on the touch screen display;
+while displaying the displayed first window and the one or more partially hidden windows, detecting a swipe gesture on the touch screen display;
+in response to detecting the swipe gesture, moving the displayed first window partially or fully off the touch screen display and moving a second window selected from the one or more partially hidden windows to the center of the touch screen display; and
+in response to detecting a gesture on the icon, enlarging the second window in the center of the touch screen display.
+14. The non-transitory computer-readable storage medium of claim 13, the one or more programs further including instructions for:
+in response to detecting the swipe gesture, moving a third window selected from the one or more partially hidden windows off the touch screen display.
+15. The non-transitory computer-readable storage medium of claim 13, wherein the detected swipe gesture is a left-to-right swipe gesture, the one or more programs further including instructions for:
+in response to detecting the left-to-right swipe gesture:
+moving the first window partially off-screen to the right,
+moving the second window to the center of the touch screen display, and
+moving a fourth window selected from the one or more partially hidden windows completely off-screen.
+16. The non-transitory computer-readable storage medium of claim 13, wherein the displayed window is displayed at a first size prior to detecting the gesture on the touch screen display, and is displayed at a second size different from the first size in response to detecting the gesture on the touch screen display.
+17. The non-transitory computer-readable storage medium of claim 13, wherein the second window in the center of the touch screen display is enlarged to fill the touch screen display.
+18. The non-transitory computer-readable storage medium of claim 13, the one or more programs further including instructions for:
+in response to detecting the gesture on the icon, ceasing to display the icon and the one or more partially hidden windows.

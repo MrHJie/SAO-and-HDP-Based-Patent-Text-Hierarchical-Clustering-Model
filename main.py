@@ -13,10 +13,10 @@ def read_file(filename):
 	return text
 
 def read_data():
-	titleI = read_file('inputData/Title1.txt')
-	AbstractI = read_file('inputData/Abstract1.txt')
-	ClaimsI = read_file('inputData/Claims1.txt')
-	DescriptionI = read_file('inputData/Description1.txt')
+	titleI = read_file('data/Title1.txt')
+	AbstractI = read_file('data/Abstract1.txt')
+	ClaimsI = read_file('data/Claims1.txt')
+	DescriptionI = read_file('data/Description1.txt')
 	return titleI,AbstractI,ClaimsI,DescriptionI
 
 def getS_A_O(A_B_C):
